@@ -1,4 +1,3 @@
-package ClientSide;
 import javax.swing.*;
 import java.sql.*;
 

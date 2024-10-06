@@ -1,7 +1,7 @@
-public class Main {
+public class Main1 {
 
     public static void main(String[] args){
-        Player p=new Player("X");
+        Player p=new Player("O");
 
         Client c=new Client(p);
 
